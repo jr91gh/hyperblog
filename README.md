@@ -1,2 +1,2 @@
-# hyperblog
-Un blog increíble
+# Hyperblog :joy: :joy:
+Un blog increíble para el curso de Git y Github.
